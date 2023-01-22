@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>halaman1.qml</file>
+        <file>halaman2.qml</file>
+        <file>halaman3.qml</file>
+        <file>home.qml</file>
+        <file>PageSuami.qml</file>
+        <file>PageIstri.qml</file>
+        <file>PagePemeriksaan.qml</file>
+        <file>meneg.png</file>
+        <file>icon.png</file>
+        <file>DataPemeriksaan.qml</file>
+        <file>DataSuami.qml</file>
+        <file>DataIstri.qml</file>
+        <file>helmi.jpeg</file>
+        <file>logo2.png</file>
+    </qresource>
+</RCC>
